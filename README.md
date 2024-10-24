@@ -41,13 +41,11 @@ This is a simple **Bowling VR Game** developed using **Unity 3D** with the **XR 
 
 ### Screenshots
 1. **Game Scene**:  
-   ![Game Scene](path/to/screenshot1.png)
+   ![Game Scene](images/Screenshot 2024-10-24 190130.png)
 
 2. **VR Gameplay**:  
-   ![VR Gameplay](path/to/screenshot2.png)
+   ![VR Gameplay](images/Screenshot 2024-10-24 193750.png)
 
-3. **Score Display**:  
-   ![Score Display](path/to/screenshot3.png)
 
 ### Steps to Run the Game
 1. Download and install **Unity 2021** or newer.
