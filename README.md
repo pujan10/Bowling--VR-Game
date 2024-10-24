@@ -44,7 +44,7 @@ This is a simple **Bowling VR Game** developed using **Unity 3D** with the **XR 
    ![Game Scene](images/screenshot1)
 
 2. **VR Gameplay**:  
-   ![VR Gameplay](images/screenshot2.png)
+   ![VR Gameplay](images/screenshot2)
 
 
 ### Steps to Run the Game
